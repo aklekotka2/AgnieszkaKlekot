@@ -6,7 +6,7 @@ function  createElementWithText(tag,tekst){
   var paragraf = document.createElement(tag);
   paragraf.innerText=tekst;
   document.body.appendChild(paragraf);
-  //return paragraf;
+
 };
 //////////
 var dataPoczatkowa = new Date();

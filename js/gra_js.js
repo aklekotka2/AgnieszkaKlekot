@@ -8,7 +8,7 @@ function  createElementWithText(tag,tekst){
   document.body.appendChild(paragraf);
   //return paragraf;
 };
-
+//////////
 var dataPoczatkowa = new Date();
 var poczatekCzasu=dataPoczatkowa.getTime();
 console.log(poczatekCzasu);

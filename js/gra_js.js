@@ -14,6 +14,8 @@ var poczatekCzasu=dataPoczatkowa.getTime();
 console.log(poczatekCzasu);
 
 //losujemyliczbę
+//dodaję komentarz testowy
+//następny
 var computerChoice=Math.round((Math.random())*100);
 console.log(computerChoice);
 
